@@ -26,11 +26,11 @@ In a remote-first world, teams need powerful tools to bring them closer. Collabx
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/SaiVamsi228/Collabx-Realtime-Collaborative-Code-Editor.git
+   git clone https://github.com/RevanthGangapur/Collabx_Collaborative_Code_Editor.git
    ```
 2. **Install dependencies:**
    ```bash
-   cd Collabx-Realtime-Collaborative-Code-Editor
+   cd Collabx_Collaborative_Code_Editor
    npm install
    ```
 3. **Run the application:**
